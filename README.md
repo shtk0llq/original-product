@@ -12,6 +12,12 @@
 | -------- | --- |
 | 2W | [テーマ決め](/documents/THEME.md) |
 | 1W | [要件定義](/documents/REQUIREMENT_DEFINITION.md) |
+| 2W | 設計 |
+| 3W | コア機能 |
+| 3W | インフラ |
+| 2W | MVP |
+| 1W | ユーザーインタビュー |
+
 <!-- | 2W | [設計](/documents/ORIGINAL_PRODUCT_DESIGN.md) | -->
 <!-- | 3W | [コア機能](/documents/ORIGINAL_PRODUCT_CORE.md) | -->
 <!-- | 3W | [インフラ](/documents/ORIGINAL_PRODUCT_INFRASTRUCTURE.md) | -->
