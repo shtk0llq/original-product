@@ -10,7 +10,7 @@
 
 | 週（目安） | 内容 |
 | -------- | --- |
-| 2W | [テーマ決め](/documents/ORIGINAL_PRODUCT_THEME.md) |
+| 2W | [テーマ決め](/documents/THEME.md) |
 | 1W | [要件定義](/documents/ORIGINAL_PRODUCT_REQUIREMENT_DEFINITION.md) |
 | 2W | [設計](/documents/ORIGINAL_PRODUCT_DESIGN.md) |
 | 3W | [コア機能](/documents/ORIGINAL_PRODUCT_CORE.md) |
