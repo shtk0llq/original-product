@@ -11,9 +11,9 @@
 | 週（目安） | 内容 |
 | -------- | --- |
 | 2W | [テーマ決め](/documents/THEME.md) |
-| 1W | [要件定義](/documents/ORIGINAL_PRODUCT_REQUIREMENT_DEFINITION.md) |
-| 2W | [設計](/documents/ORIGINAL_PRODUCT_DESIGN.md) |
-| 3W | [コア機能](/documents/ORIGINAL_PRODUCT_CORE.md) |
-| 3W | [インフラ](/documents/ORIGINAL_PRODUCT_INFRASTRUCTURE.md) |
-| 2W | [MVP](/documents/ORIGINAL_PRODUCT_MVP.md) |
-| 1W | [ユーザーインタビュー](/documents/ORIGINAL_PRODUCT_INTERVIEW.md) |
+| 1W | [要件定義](/documents/REQUIREMENT_DEFINITION.md) |
+<!-- | 2W | [設計](/documents/ORIGINAL_PRODUCT_DESIGN.md) | -->
+<!-- | 3W | [コア機能](/documents/ORIGINAL_PRODUCT_CORE.md) | -->
+<!-- | 3W | [インフラ](/documents/ORIGINAL_PRODUCT_INFRASTRUCTURE.md) | -->
+<!-- | 2W | [MVP](/documents/ORIGINAL_PRODUCT_MVP.md) | -->
+<!-- | 1W | [ユーザーインタビュー](/documents/ORIGINAL_PRODUCT_INTERVIEW.md) | -->

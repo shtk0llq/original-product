@@ -2,7 +2,7 @@
 
 ## **Skill Doc を読む**
 
-[オリジナルプロダクト](/skilldocs/ORIGINAL_PRODUCT.md)
+- [オリジナルプロダクト](/skilldocs/ORIGINAL_PRODUCT.md)
 
 ## オリジナルプロダクトのテーマ決め
 
