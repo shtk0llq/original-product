@@ -13,10 +13,10 @@
 | 2W | [テーマ決め](/documents/THEME.md) |
 | 1W | [要件定義](/documents/REQUIREMENT_DEFINITION.md) |
 | 2W | [業務フロー](/documents/BUSINESS_FLOW.md) |
-| 2W | 画面遷移図 |
-| 2W | ワイヤーフレーム |
-| 2W | テーブル定義書 / ER図 |
-| 2W | システム構成図 |
+| 2W | [画面遷移図](/documents/TRANSITION_DIAGRAM.md) |
+| 2W | [ワイヤーフレーム](/documents//WIREFRAME.md) |
+| 2W | [テーブル定義書/ER図](/documents/TABLE.md) |
+| 2W | [システム構成図](/documents/SYSTEM_CONFIGURATION.md) |
 | 3W | コア機能 |
 | 3W | インフラ |
 | 2W | MVP |
