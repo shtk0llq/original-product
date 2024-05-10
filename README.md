@@ -12,14 +12,12 @@
 | -------- | --- |
 | 2W | [テーマ決め](/documents/THEME.md) |
 | 1W | [要件定義](/documents/REQUIREMENT_DEFINITION.md) |
-| 2W | 設計 |
+| 2W | [業務フロー](/documents/BUSINESS_FLOW.md) |
+| 2W | 画面遷移図 |
+| 2W | ワイヤーフレーム |
+| 2W | テーブル定義書 / ER図 |
+| 2W | システム構成図 |
 | 3W | コア機能 |
 | 3W | インフラ |
 | 2W | MVP |
 | 1W | ユーザーインタビュー |
-
-<!-- | 2W | [設計](/documents/ORIGINAL_PRODUCT_DESIGN.md) | -->
-<!-- | 3W | [コア機能](/documents/ORIGINAL_PRODUCT_CORE.md) | -->
-<!-- | 3W | [インフラ](/documents/ORIGINAL_PRODUCT_INFRASTRUCTURE.md) | -->
-<!-- | 2W | [MVP](/documents/ORIGINAL_PRODUCT_MVP.md) | -->
-<!-- | 1W | [ユーザーインタビュー](/documents/ORIGINAL_PRODUCT_INTERVIEW.md) | -->
