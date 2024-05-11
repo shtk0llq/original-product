@@ -14,7 +14,8 @@
 ### 参考
 
 - [画面遷移図をFigmaで作成（PowerPointより手軽！便利！）](https://qiita.com/takakenhowaken/items/e525084c9e793b19c2ee)
+- [miro 画面遷移図テンプレート](https://miro.com/ja/templates/screen-flow)
 
-図を記載するツールは何でも良いのですが、Figma がおすすめです。
+図を記載するツールは何でも良いのですが、Figma, miro がおすすめです。
 
 提出する際は、オリジナルプロダクトの GitHub のリポジトリの documents ディレクトリ内に画面遷移図についてまとめた md ファイルを作成し図を記載してください。
