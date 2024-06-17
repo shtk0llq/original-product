@@ -17,7 +17,7 @@
 | 1W | [ワイヤーフレーム](/documents//WIREFRAME.md) |
 | 3D | [テーブル定義書/ER図](/documents/TABLE.md) |
 | 3D | [システム構成図](/documents/SYSTEM_CONFIGURATION.md) |
-| 3W | コア機能 |
+| 3W | [コア機能](/documents/CORE.md) |
 | 3W | インフラ |
 | 2W | MVP |
 | 1W | ユーザーインタビュー |
